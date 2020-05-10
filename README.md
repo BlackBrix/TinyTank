@@ -19,17 +19,11 @@ Downloads
 
 **License**
 
-[Schematic and Demo Board](https://github.com/BlackBrix/TinyTank/tree/master/hardware)  
+[Schematic and Demo Board](https://github.com/BlackBrix/TinyTank/tree/master/hardware)   [![Creative Commons License](pics/cc-license.png)](https://creativecommons.org/licenses/by-nc-sa/3.0/hk/) 
 
- [![Creative Commons License](pics/cc-license.png)](https://creativecommons.org/licenses/by-nc-sa/3.0/hk/) 
+[Source code](https://github.com/BlackBrix/TinyTank/tree/master/firmware)  [![Creative Commons License](pics/GNU_GPL_License.png)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) 
 
-[Source code](downloads/TinyTank.zip)
-
- [![Creative Commons License](pics/GNU_GPL_License.png)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) 
-
-[Intel HEX File](downloads/TinyTank.hex) ³
-
- [![Creative Commons License](pics/GNU_GPL_License.png)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) 
+[Intel HEX File](https://github.com/BlackBrix/TinyTank/tree/master/firmware)³  [![Creative Commons License](pics/GNU_GPL_License.png)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) 
 
 
-³ Internal oscillator calibration set to 0x78 
+³(Internal oscillator calibration set to 0x78)  

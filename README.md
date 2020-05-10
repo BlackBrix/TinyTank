@@ -23,7 +23,7 @@ Downloads
 
 [Source code](https://github.com/BlackBrix/TinyTank/tree/master/firmware)  [![Creative Commons License](pics/GNU_GPL_License.png)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) 
 
-[Intel HEX File](https://github.com/BlackBrix/TinyTank/tree/master/firmware)³  [![Creative Commons License](pics/GNU_GPL_License.png)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) 
+[Intel HEX File](https://github.com/BlackBrix/TinyTank/raw/master/firmware/TinyTank.hex)³  [![Creative Commons License](pics/GNU_GPL_License.png)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) 
 
 
 ³(Internal oscillator calibration set to 0x78)  

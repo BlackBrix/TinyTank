@@ -19,7 +19,7 @@ Downloads
 
 **License**
 
-[Schematic and Demo Board](downloads/TinyTankSchematic.zip) ¹, ²
+[Schematic and Demo Board](https://github.com/BlackBrix/TinyTank/tree/master/hardware)  
 
  [![Creative Commons License](pics/cc-license.png)](https://creativecommons.org/licenses/by-nc-sa/3.0/hk/) 
 

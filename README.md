@@ -3,7 +3,7 @@ Fuel Level Sensor - TinyTank
 
 Many Audi type 89 or B4 enthusiasts want to replace their instrument cluster by a more modern one from an A4 (B5) or A6 (C5). Mechanically these clusters fit almost perfectly. Electronically there are some problems to deal with. One is the different characteristics of the fuel level sensors. A type 89 sensor has a logarithmic scale. Newer ones are linear scaled.  
   
-![Fuel Level Sensors](pics/FuelLevelSensors_corrected.png)
+![Fuel Level Sensors](pics/FuelLevelSensorsCorrected.png)
   
 Replacing the fuel sensor results in an imprecise gauge. Changing the lookup table inside the instruments cluster's firmware isn't feasible for everybody. So a good compromise is keeping the original sensor and adapting its signal to the needs of the instrument cluster.  
   

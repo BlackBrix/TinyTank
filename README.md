@@ -15,13 +15,10 @@ Using Atmel's ATtiny15 TinyTank measures the fuel level via the ADC and produces
 Downloads
 ---------
 
-**Content**    /    **License**  
-
-[Schematic and Demo Board](https://github.com/BlackBrix/TinyTank/tree/master/hardware)   /   [![Creative Commons License](pics/cc-license.png)](https://creativecommons.org/licenses/by-nc-sa/3.0/hk/) 
-
-[Source code](https://github.com/BlackBrix/TinyTank/tree/master/firmware)   /   [![Creative Commons License](pics/GNU_GPL_License.png)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) 
-
-[Intel HEX File](https://github.com/BlackBrix/TinyTank/raw/master/firmware/TinyTank.hex)³   /   [![Creative Commons License](pics/GNU_GPL_License.png)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) 
-
-
+  Content       | License
+  ------------- | -------------
+  [Schematic and Demo Board](https://github.com/BlackBrix/TinyTank/tree/master/hardware)  | [![Creative Commons License](pics/cc-license.png)](https://creativecommons.org/licenses/by-nc-sa/3.0/hk/)
+  [Source code](https://github.com/BlackBrix/TinyTank/raw/master/firmware/TinyTankSourceCode.zip)  | [![Creative Commons License](pics/GNU_GPL_License.png)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+  [Intel HEX File](https://github.com/BlackBrix/TinyTank/raw/master/firmware/TinyTank.hex)³  |  [![Creative Commons License](pics/GNU_GPL_License.png)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+  
 ³(Internal oscillator calibration set to 0x78)  
